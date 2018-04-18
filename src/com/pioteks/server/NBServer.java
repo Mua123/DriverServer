@@ -10,11 +10,14 @@ import org.apache.mina.filter.executor.ExecutorFilter;
 import org.apache.mina.filter.logging.LoggingFilter;
 import org.apache.mina.transport.socket.DatagramSessionConfig;
 import org.apache.mina.transport.socket.nio.NioDatagramAcceptor;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import com.pioteks.handler.NBServerHandler;
+import com.pioteks.main.Main;
 
 public class NBServer {
-	
+	private static final Logger logger = (Logger) LoggerFactory.getLogger(NBServer.class);
 	
 	
 	public static void startNBServer(int port) throws IOException {
@@ -41,5 +44,6 @@ public class NBServer {
         acceptor.bind(new InetSocketAddress(port));
 
         System.out.println("NBServer start in " + port + " ..");
+        logger.info("NBServer start in " + port + " ..");
 	}
 }

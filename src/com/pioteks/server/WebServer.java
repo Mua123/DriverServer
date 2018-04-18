@@ -10,11 +10,15 @@ import org.apache.mina.core.session.IoSessionConfig;
 import org.apache.mina.filter.executor.ExecutorFilter;
 import org.apache.mina.filter.logging.LoggingFilter;
 import org.apache.mina.transport.socket.nio.NioSocketAcceptor;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import com.pioteks.handler.WebServerHandler;
 
 public class WebServer {
 
+	private static final Logger logger = (Logger) LoggerFactory.getLogger(WebServer.class);
+	
 	public static void startWebServer(int port) throws IOException {
 		// ** Acceptor…Ë÷√
 		IoAcceptor acceptor = new NioSocketAcceptor();
@@ -31,5 +35,6 @@ public class WebServer {
         acceptor.bind(new InetSocketAddress(port));
 
         System.out.println("WebServer start in " + port + " ..");
+        logger.info("WebServer start in " + port + " ..");
 	}
 }

@@ -8,17 +8,29 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
+import org.apache.log4j.PropertyConfigurator;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import com.piokeks.model.RequestResponse;
 import com.pioteks.server.NBServer;
 import com.pioteks.server.WebServer;
 import com.pioteks.utils.CommandInstance;
 
 public class Main {
+	private static final Logger logger = (Logger) LoggerFactory.getLogger(Main.class);
 	
 	public static void main(String[] args) throws IOException {
 		int NBPort = -1;
 		int WebPort = -1;
 		
+		
+		//设置log4j配置
+		String path = System.getProperty("user.dir")+File.separator;
+		
+		PropertyConfigurator.configure(path + "log4j.properties");
+		logger.error("lauach log properties");
+		logger.error("log file path:" + path + "log4j.properties");
 		//通过配置文件设置端口
 		Properties prop=new Properties();
 	    InputStream in=new FileInputStream(new File(System.getProperty("user.dir")+File.separator+"DriverServer.properties"));

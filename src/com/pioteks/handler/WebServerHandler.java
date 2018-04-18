@@ -52,8 +52,8 @@ public class WebServerHandler extends IoHandlerAdapter{
    public void sessionCreated(IoSession session) throws Exception {
        System.out.println("Web Session created...");
        logger.info("Web Session created...");
-       SocketAddress remoteAddress = session.getRemoteAddress();
-       System.out.println(remoteAddress.toString());
+//       SocketAddress remoteAddress = session.getRemoteAddress();
+//       System.out.println(remoteAddress.toString());
    }
 
    @Override
@@ -62,7 +62,7 @@ public class WebServerHandler extends IoHandlerAdapter{
        logger.info("Web Session opened...");
        InetSocketAddress remoteAddress = (InetSocketAddress) session.getRemoteAddress();
        logger.info("Web Server opened Session ID ="+String.valueOf(session.getId()));
-       logger.info("接收来自客户端 :" + remoteAddress.getAddress().getHostAddress() + "的连接.");
+       logger.info("接收来自WEB客户端 :" + remoteAddress.getAddress().getHostAddress() + "的连接.");
        
        WebServerSessionInstance instance = WebServerSessionInstance.getWebServerSessionInstance();
        instance.setWebServerSession(session);
@@ -103,11 +103,11 @@ public class WebServerHandler extends IoHandlerAdapter{
 	       		case "0":
 	       			int code = data[1] & 0xFF;
 	       			if(code == 0) {
-	       				System.out.println("message send success");
-	       				logger.info("message send success");
+	       				System.out.println("Web Server accept successfully");
+	       				logger.info("Web Server accept successfully");
 	       			}else if(code == 1){
-	       				System.out.println("message send fail");
-	       				logger.info("message send fail");
+	       				System.out.println("Web Server accept fail");
+	       				logger.info("Web Server accept fail");
 	       			}
 	       			break;
 	       		case "1":
@@ -146,7 +146,7 @@ public class WebServerHandler extends IoHandlerAdapter{
 	       			break;
 	       		case "3":
 	       			System.out.println("heart beat package");
-       				logger.info("heart beat package");
+       				logger.debug("heart beat package");
 	       			break;
 	       }
 	       

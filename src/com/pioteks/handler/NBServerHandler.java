@@ -59,25 +59,25 @@ public class NBServerHandler extends IoHandlerAdapter{
     public void sessionClosed(IoSession session) throws Exception {
         System.out.println("NB Session closed...");
         logger.info("NB Session closed...");
-        SocketAddress remoteAddress = session.getRemoteAddress();
-        System.out.println(remoteAddress.toString());
+//        SocketAddress remoteAddress = session.getRemoteAddress();
+//        System.out.println(remoteAddress.toString());
     }
 
     @Override
     public void sessionCreated(IoSession session) throws Exception {
         System.out.println("NB Session created...");
         logger.info("NB Session created...");
-        SocketAddress remoteAddress = session.getRemoteAddress();
-        System.out.println(remoteAddress.toString());
+//        SocketAddress remoteAddress = session.getRemoteAddress();
+//        System.out.println(remoteAddress.toString());
     }
 
     @Override
     public void sessionOpened(IoSession session) throws Exception {
-        System.out.println("NB Session opened...");
+    	System.out.println("NB Session opened...");
         logger.info("NB Session opened...");
         InetSocketAddress remoteAddress = (InetSocketAddress) session.getRemoteAddress();
-        logger.info(remoteAddress.getAddress().getHostAddress());
-		logger.info(String.valueOf(session.getId()));
+        logger.info("NB Server opened Session ID ="+String.valueOf(session.getId()));
+        logger.info("接收来自NB客户端 :" + remoteAddress.getAddress().getHostAddress() + "的连接.");
     }
 
     @Override

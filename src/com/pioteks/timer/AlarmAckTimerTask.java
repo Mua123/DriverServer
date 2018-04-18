@@ -57,12 +57,12 @@ public class AlarmAckTimerTask extends TimerTask {
         	future.awaitUninterruptibly(100);
         	// The message has been written successfully
         	if( future.isWritten() ) {									//与web服务器处于连接状态
-        		System.out.println("send to WebServer successfully");
-        		logger.info("send to WebServer successfully");
+        		System.out.println("Alarm Ack send to WebServer successfully");
+        		logger.info("Alarm Ack send to WebServer successfully");
         		logger.info("message:" + message);
         	}else{
-        		System.out.println("send to WebServer failed");
-        		logger.info("send to WebServer failed");
+        		System.out.println("Alarm Ack send to WebServer failed");
+        		logger.info("Alarm Ack send to WebServer failed");
         	}
         }else {															//和web服务器连接断开
         	if(session == null) {										//TCP连接未建立
