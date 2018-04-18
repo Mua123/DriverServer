@@ -1,8 +1,15 @@
 package com.pioteks.handler;
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
 import java.net.InetSocketAddress;
 import java.net.SocketAddress;
 import java.util.List;
+import java.util.Properties;
+import java.util.Timer;
 
 import org.apache.mina.core.buffer.IoBuffer;
 import org.apache.mina.core.future.WriteFuture;
@@ -13,6 +20,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.piokeks.model.RequestResponse;
+import com.pioteks.timer.AlarmAckTimerTask;
 import com.pioteks.utils.BytesHexString;
 import com.pioteks.utils.CommandInstance;
 import com.pioteks.utils.WebServerSessionInstance;
@@ -21,7 +29,15 @@ public class NBServerHandler extends IoHandlerAdapter{
 
 	private final Logger logger = (Logger) LoggerFactory.getLogger(getClass());
 	
+	private final static String UpCoverOpened = "Up Cover Opened";
+	private final static String DownCoverOpened = "Down Cover Opened";
+	private final static String UpCoverClosed = "Up Cover Closed";
+	private final static String DownCoverClosed = "Down Cover Closed";
+	private final static String Vibrating = "Vibrating";
+	private final static String VibCancel = "VibCancel";
 	
+	private static Timer t = new Timer();
+	private static AlarmAckTimerTask timerTask;
 	 /**
      * MINA的异常回调方法。
      * <p>
@@ -95,15 +111,16 @@ public class NBServerHandler extends IoHandlerAdapter{
             
             System.out.println("NB received data "+ BytesHexString.bytesToHexString(data));
             
-            response(data, session);			//jar包形式的回复
+            response(data, session);			
             
         }
     }
 	
     
-    private void response(byte[] data, IoSession session) throws InterruptedException {
+    private void response(byte[] data, IoSession session) throws InterruptedException, IOException {
     	CommandInstance command = CommandInstance.getCommandInstance();
     	List<RequestResponse> commandList = null;
+    	
     	if(command.getMode() == CommandInstance.ALARM) {
     		commandList = command.getCommandListMode1();
     	}else if(command.getMode() == CommandInstance.OPERATE) {
@@ -122,13 +139,84 @@ public class NBServerHandler extends IoHandlerAdapter{
 				if(command.getMode() == CommandInstance.ALARM ) {
 					switch(i) {
 					case 0:
-						sendToWeb("Up Cover Opened");
+						sendToWeb(UpCoverOpened);
+						command.setLastStatusOne(UpCoverOpened);
+						Thread.currentThread().sleep(500);
+						sendToWeb(DownCoverOpened);
+						command.setLastStatusTwo(DownCoverOpened);
+						Thread.currentThread().sleep(500);
+						sendToWeb(Vibrating);
+						command.setLastStatusThree(Vibrating);
 						break;
 					case 1:
-						sendToWeb("Down Cover Opened");
+						sendToWeb(UpCoverClosed);
+						command.setLastStatusOne(UpCoverClosed);
+						Thread.currentThread().sleep(500);
+						sendToWeb(DownCoverOpened);
+						command.setLastStatusTwo(DownCoverOpened);
+						Thread.currentThread().sleep(500);
+						sendToWeb(Vibrating);
+						command.setLastStatusThree(Vibrating);
 						break;
 					case 2:
-						sendToWeb("Vibrating");
+						sendToWeb(UpCoverOpened);
+						command.setLastStatusOne(UpCoverOpened);
+						Thread.currentThread().sleep(500);
+						sendToWeb(DownCoverClosed);
+						command.setLastStatusTwo(DownCoverClosed);
+						Thread.currentThread().sleep(500);
+						sendToWeb(Vibrating);
+						command.setLastStatusThree(Vibrating);
+						break;
+					case 3:
+						sendToWeb(UpCoverClosed);
+						command.setLastStatusOne(UpCoverClosed);
+						Thread.currentThread().sleep(500);
+						sendToWeb(DownCoverClosed);
+						command.setLastStatusTwo(DownCoverClosed);
+						Thread.currentThread().sleep(500);
+						sendToWeb(Vibrating);
+						command.setLastStatusThree(Vibrating);
+						break;
+					case 4:
+						sendToWeb(UpCoverOpened);
+						command.setLastStatusOne(UpCoverOpened);
+						Thread.currentThread().sleep(500);
+						sendToWeb(DownCoverOpened);
+						command.setLastStatusTwo(DownCoverOpened);
+						Thread.currentThread().sleep(500);
+						sendToWeb(VibCancel);
+						command.setLastStatusThree(VibCancel);
+						break;
+					case 5:
+						sendToWeb(UpCoverClosed);
+						command.setLastStatusOne(UpCoverClosed);
+						Thread.currentThread().sleep(500);
+						sendToWeb(DownCoverOpened);
+						command.setLastStatusTwo(DownCoverOpened);
+						Thread.currentThread().sleep(500);
+						sendToWeb(VibCancel);
+						command.setLastStatusThree(VibCancel);
+						break;
+					case 6:
+						sendToWeb(UpCoverOpened);
+						command.setLastStatusOne(UpCoverOpened);
+						Thread.currentThread().sleep(500);
+						sendToWeb(DownCoverClosed);
+						command.setLastStatusTwo(DownCoverClosed);
+						Thread.currentThread().sleep(500);
+						sendToWeb(VibCancel);
+						command.setLastStatusThree(VibCancel);
+						break;
+					case 7:
+						sendToWeb(UpCoverClosed);
+						command.setLastStatusOne(UpCoverClosed);
+						Thread.currentThread().sleep(500);
+						sendToWeb(DownCoverClosed);
+						command.setLastStatusTwo(DownCoverClosed);
+						Thread.currentThread().sleep(500);
+						sendToWeb(VibCancel);
+						command.setLastStatusThree(VibCancel);
 						break;
 					}
 		    	}else if(command.getMode() == CommandInstance.OPERATE) {
@@ -142,6 +230,19 @@ public class NBServerHandler extends IoHandlerAdapter{
 						break;
 					}
 		    	}
+				//增加定时任务，发送确定的消息
+				Properties prop=new Properties();
+			    InputStream in=new FileInputStream(new File(System.getProperty("user.dir")+File.separator+"DriverServer.properties"));
+			    prop.load(in);
+			    int delayTime = Integer.parseInt(prop.getProperty("time_interval"));
+			    if(timerTask != null) {
+			    	timerTask.cancel();							//先取消上次的定时任务
+			    }
+				timerTask = new AlarmAckTimerTask(command.getLastStatusOne(), command.getLastStatusTwo(),			
+						command.getLastStatusThree());													//创建新的定时任务
+				t.schedule(timerTask, delayTime*1000);													//将定时任务加入计时器
+				in.close();
+				
 				break;
 			}
     	}
@@ -178,7 +279,7 @@ public class NBServerHandler extends IoHandlerAdapter{
         
         WebServerSessionInstance instance = WebServerSessionInstance.getWebServerSessionInstance();
         IoSession session = instance.getWebServerSession();
-        if(session.isConnected()) {
+        if(session != null && session.isConnected()) {
         	WriteFuture future = session.write(buf);
         	// 在100毫秒超时间内等待写完成
         	future.awaitUninterruptibly(100);
@@ -192,7 +293,7 @@ public class NBServerHandler extends IoHandlerAdapter{
         		logger.info("send to WebServer failed");
         	}
         }else {															//和web服务器连接断开
-        	
+        
         }
     }
     

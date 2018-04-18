@@ -15,6 +15,9 @@ public class CommandInstance {
 
 	private int delayTime = 100;
 	
+	private String lastStatusOne;
+	private String lastStatusTwo;
+	private String lastStatusThree;
 	
 	/**
 	 * ±¨¾¯½ÓÊÜ×´Ì¬
@@ -69,6 +72,45 @@ public class CommandInstance {
 	public void setDelayTime(int delayTime) {
 		this.delayTime = delayTime;
 	}
+
+
+
+	public String getLastStatusOne() {
+		return lastStatusOne;
+	}
+
+
+
+	public void setLastStatusOne(String lastStatusOne) {
+		this.lastStatusOne = lastStatusOne;
+	}
+
+
+
+	public String getLastStatusTwo() {
+		return lastStatusTwo;
+	}
+
+
+
+	public void setLastStatusTwo(String lastStatusTwo) {
+		this.lastStatusTwo = lastStatusTwo;
+	}
+
+
+
+	public String getLastStatusThree() {
+		return lastStatusThree;
+	}
+
+
+
+	public void setLastStatusThree(String lastStatusThree) {
+		this.lastStatusThree = lastStatusThree;
+	}
+
+
+
 	
 	
 	
