@@ -51,7 +51,7 @@ public class AlarmAckTimerTask extends TimerTask {
         byte[] data = message.getBytes();
         IoBuffer buf = IoBuffer.wrap(data);
         
-        if(session != null && session.isConnected()) {
+        if(session != null && session.isConnected()) {					//判断session不为空且session处于连接状态
         	WriteFuture future = session.write(buf);
         	// 在100毫秒超时间内等待写完成
         	future.awaitUninterruptibly(100);
@@ -65,7 +65,15 @@ public class AlarmAckTimerTask extends TimerTask {
         		logger.info("send to WebServer failed");
         	}
         }else {															//和web服务器连接断开
-        	
+        	if(session == null) {										//TCP连接未建立
+        		System.out.println("TCP never connects");
+        		logger.error("TCP never connects");
+        		logger.error("message:" + message);
+        	}else if(!session.isConnected()) {							//TCP连接异常关闭
+        		System.out.println("TCP disconnect");
+        		logger.error("TCP disconnect");
+        		logger.error("message:" + message);
+        	}
         }
     }
 }

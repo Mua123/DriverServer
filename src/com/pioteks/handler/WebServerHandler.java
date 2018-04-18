@@ -144,6 +144,10 @@ public class WebServerHandler extends IoHandlerAdapter{
 	       				response(result, session);
 	       			}
 	       			break;
+	       		case "3":
+	       			System.out.println("heart beat package");
+       				logger.info("heart beat package");
+	       			break;
 	       }
 	       
        }
