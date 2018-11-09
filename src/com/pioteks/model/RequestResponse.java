@@ -1,4 +1,4 @@
-package com.piokeks.model;
+package com.pioteks.model;
 
 public class RequestResponse {
 

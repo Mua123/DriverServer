@@ -1,5 +1,6 @@
 package com.pioteks.timer;
 
+import java.util.List;
 import java.util.TimerTask;
 
 import org.apache.mina.core.buffer.IoBuffer;
@@ -17,6 +18,7 @@ public class AlarmAckTimerTask extends TimerTask {
 	private String lastStatusOne;
 	private String lastStatusTwo;
 	private String lastStatusThree;
+	private List<String> list;
 	
 	public AlarmAckTimerTask() {
 		
@@ -28,21 +30,27 @@ public class AlarmAckTimerTask extends TimerTask {
 		this.lastStatusThree = lastStatusThree;
 	}
 	
+	public AlarmAckTimerTask(List<String> list) {
+		this.list = list;
+	}
+	
 	@Override
 	public void run() {
 		WebServerSessionInstance instance = WebServerSessionInstance.getWebServerSessionInstance();
         IoSession session = instance.getWebServerSession();
         
-		try {
-			sendToWeb(lastStatusOne, session);
-			Thread.currentThread().sleep(500);
-			sendToWeb(lastStatusTwo, session);
-			Thread.currentThread().sleep(500);
-			sendToWeb(lastStatusThree, session);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+//		try {
+//			sendToWeb(lastStatusOne, session);
+//			Thread.currentThread().sleep(500);
+//			sendToWeb(lastStatusTwo, session);
+//			Thread.currentThread().sleep(500);
+//			sendToWeb(lastStatusThree, session);
+//		} catch (InterruptedException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+        
+        
 		
 		
 	}

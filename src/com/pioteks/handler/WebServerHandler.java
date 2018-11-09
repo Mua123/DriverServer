@@ -20,7 +20,7 @@ public class WebServerHandler extends IoHandlerAdapter{
 	
 	private final Logger logger = (Logger) LoggerFactory.getLogger(getClass());
 	private final String success = "successfully";
-
+	private int heartBeatCount = 0;
 	
 	
 	 /**
@@ -146,7 +146,10 @@ public class WebServerHandler extends IoHandlerAdapter{
 	       			break;
 	       		case "3":
 	       			System.out.println("heart beat package");
-       				logger.debug("heart beat package");
+	       			if(heartBeatCount % 50 == 0) {
+	       				logger.debug(heartBeatCount  + " heart beat package");
+	       			}
+	       			heartBeatCount++;
 	       			break;
 	       }
 	       

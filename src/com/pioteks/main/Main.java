@@ -5,20 +5,32 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Properties;
+import java.util.Timer;
 
 import org.apache.log4j.PropertyConfigurator;
+import org.eclipse.paho.client.mqttv3.MqttException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.piokeks.model.RequestResponse;
+import com.pioteks.model.RequestResponse;
 import com.pioteks.server.NBServer;
 import com.pioteks.server.WebServer;
+import com.pioteks.timer.ReconnectTimerTask;
+import com.pioteks.usr.ClientAdapter;
+import com.pioteks.usr.ClinetCallbackAdapter;
 import com.pioteks.utils.CommandInstance;
 
 public class Main {
 	private static final Logger logger = (Logger) LoggerFactory.getLogger(Main.class);
+	
+	/* 1.初始化客户端适配 */
+	public static ClientAdapter clientAdapter;
+	
+	/* 2.初始化客户端回调适配 */
+	public static ClinetCallbackAdapter clinetCallbackAdapter;
 	
 	public static void main(String[] args) throws IOException {
 		int NBPort = -1;
@@ -42,6 +54,9 @@ public class Main {
 	    if(prop.getProperty("Web_port") != null) {
 	    	WebPort = Integer.parseInt(prop.getProperty("Web_port"));
 	    }
+	    if(prop.getProperty("Web_port_gx") != null) {
+	    	WebPort = Integer.parseInt(prop.getProperty("Web_port_gx"));
+	    }
 		in.close();
 		//启动NB接收服务
 		if(NBPort == -1) {
@@ -57,8 +72,11 @@ public class Main {
 			WebServer.startWebServer(WebPort);
 		}
 		
+		Timer timer = new Timer();
+		timer.schedule(new ReconnectTimerTask(), 5000, 6 * 60 * 60 * 1000);
 		//初始化指令表和模式。
 		Main.init();
+		
 	}
 	
 	private static void init() throws IOException {
@@ -67,14 +85,19 @@ public class Main {
 		
 		List<RequestResponse> commandListMode1 = new ArrayList<RequestResponse>();
 		
-		commandListMode1.add(new RequestResponse("41-08-5A", "00-ff-00"));
-		commandListMode1.add(new RequestResponse("41-18-5A", "00-ff-00"));
-		commandListMode1.add(new RequestResponse("41-28-5A", "00-ff-00"));
-		commandListMode1.add(new RequestResponse("41-38-5A", "00-ff-00"));
-		commandListMode1.add(new RequestResponse("41-0C-5A", "00-ff-00"));
-		commandListMode1.add(new RequestResponse("41-1C-5A", "00-ff-00"));
-		commandListMode1.add(new RequestResponse("41-2C-5A", "00-ff-00"));
-		commandListMode1.add(new RequestResponse("41-3C-5A", "00-ff-00"));
+		commandListMode1.add(new RequestResponse("41-B0-5A", "00-ff-00"));
+		commandListMode1.add(new RequestResponse("41-90-5A", "00-ff-00"));
+		commandListMode1.add(new RequestResponse("41-A0-5A", "00-ff-00"));
+		commandListMode1.add(new RequestResponse("41-80-5A", "00-ff-00"));//震动
+		commandListMode1.add(new RequestResponse("41-30-5A", "00-ff-00"));//内井盖开启
+		commandListMode1.add(new RequestResponse("41-10-5A", "00-ff-00"));
+		commandListMode1.add(new RequestResponse("41-20-5A", "00-ff-00"));//外井盖开启
+		commandListMode1.add(new RequestResponse("41-00-5A", "00-ff-00"));//正常
+//		commandListMode1.add(new RequestResponse("41-38-5A", "00-ff-00"));
+//		commandListMode1.add(new RequestResponse("41-0C-5A", "00-ff-00"));
+//		commandListMode1.add(new RequestResponse("41-1C-5A", "00-ff-00"));
+//		commandListMode1.add(new RequestResponse("41-2C-5A", "00-ff-00"));
+//		commandListMode1.add(new RequestResponse("41-3C-5A", "00-ff-00"));
 		
 		List<RequestResponse> commandListMode2 = new ArrayList<RequestResponse>();
 		
@@ -84,6 +107,45 @@ public class Main {
 		command.setCommandListMode1(commandListMode1);
 		command.setCommandListMode2(commandListMode2);
 		command.setMode(CommandInstance.ALARM);
+		
+		run();
 	}
+	
+	public static void run() {
+		clientAdapter = new ClientAdapter(clinetCallbackAdapter);
+		clinetCallbackAdapter = new ClinetCallbackAdapter(clientAdapter);
+		logger.info(new Date()+"UsrThread start");
+		System.out.println(new Date()+"UsrThread");
+		try {
+			receiveByUsr();
+		}  catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public static void receiveByUsr() throws MqttException, InterruptedException {
+		
+		  /* 3.客户端设置回调 */
+		  clientAdapter.setUsrCloudMqttCallback(clinetCallbackAdapter);
+
+		  /* 4.进行连接 */
+		  clientAdapter.Connect("Mua123", "zhyyly4243");
+		  //等待连接
+		  Thread.sleep(500);
+		//订阅账户所有设备
+		  clientAdapter.SubscribeForUsername();
+		  while(true) {
+			  //断线重连
+			  Thread.sleep(1000 * 60 * 60);
+			  while(!clientAdapter.connect) {
+				  clientAdapter.Connect("Mua123", "zhyyly4243");
+				  Thread.sleep(500);
+				  //订阅账户所有设备
+				  clientAdapter.SubscribeForUsername();
+			  }
+		  }
+		  
+	}
+
 	
 }

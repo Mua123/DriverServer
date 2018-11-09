@@ -2,7 +2,7 @@ package com.pioteks.utils;
 
 import java.util.List;
 
-import com.piokeks.model.RequestResponse;
+import com.pioteks.model.RequestResponse;
 
 public class CommandInstance {
 	
