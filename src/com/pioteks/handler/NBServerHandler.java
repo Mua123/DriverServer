@@ -42,6 +42,10 @@ public class NBServerHandler extends IoHandlerAdapter{
 	public final static String Vibrating = "Vibrating";
 	public final static String VibCancel = "VibCancel";
 	
+	//管线服务序号
+	public static int snAlarm = 100;
+	public static int snAll = 200;
+	
 	public static Timer t = new Timer();
 	public static AlarmAckTimerTask timerTask;
 	 /**
@@ -182,69 +186,78 @@ public class NBServerHandler extends IoHandlerAdapter{
 		byte check = data[6];
 		byte end = data[7];
 		
-		if(command == 1) {
-			if((dataArr[0] & 0x01) == 0x01) {
-				messageList.add("震动");
-			}else {
-				messageList.add("无震动");
+		//杰狮服务
+		if(start == 0x41 && end == 0x5A) {
+			if(command == 1) {
+				if((dataArr[0] & 0x01) == 0x01) {
+					messageList.add("震动");
+				}else {
+					messageList.add("无震动");
+				}
+				if((dataArr[0] & 0x04) == 0x04) {
+					messageList.add("外井盖开启");
+				}else {
+					messageList.add("外井盖关闭");
+				}
+				if((dataArr[0] & 0x02) == 0x02) {
+					messageList.add("内井盖开启");
+				}else {
+					messageList.add("内井盖关闭");
+				}
+				if((dataArr[0] & 0x08) == 0x08) {
+					messageList.add("盖锁开启");
+				}else {
+					messageList.add("盖锁关闭");
+				}
+			}else if(command == 2) {
+				if((dataArr[0] & 0x10) == 0x10) {
+					messageList.add("硫化物未超标");
+				}else {
+					messageList.add("硫化物超标");
+				}
+				if((dataArr[0] & 0x20) == 0x20) {
+					messageList.add("甲烷未超标");
+					messageList.add("一氧化碳未超标");
+				}else {
+					messageList.add("甲烷超标");
+					messageList.add("一氧化碳超标");
+				}
+				byte distance = dataArr[1];
+				int distanceValue = (int)distance;
+			}else if(command == 3) {
+				if((dataArr[0] & 0x01) == 0x01) {
+					messageList.add("震动");
+				}else {
+					messageList.add("无震动");
+				}
+				if((dataArr[0] & 0x04) == 0x04) {
+					messageList.add("外井盖开启");
+				}else {
+					messageList.add("外井盖关闭");
+				}
+				if((dataArr[0] & 0x02) == 0x02) {
+					messageList.add("内井盖开启");
+				}else {
+					messageList.add("内井盖关闭");
+				}
+				if((dataArr[0] & 0x08) == 0x08) {
+					messageList.add("盖锁开启");
+				}else {
+					messageList.add("盖锁关闭");
+				}
 			}
-			if((dataArr[0] & 0x04) == 0x04) {
-				messageList.add("外井盖开启");
-			}else {
-				messageList.add("外井盖关闭");
+			
+			for(int i = 0; i < messageList.size(); i++)
+			{
+				sendToWeb(messageList.get(i));
+				Thread.currentThread().sleep(500);
 			}
-			if((dataArr[0] & 0x02) == 0x02) {
-				messageList.add("内井盖开启");
-			}else {
-				messageList.add("内井盖关闭");
-			}
-			if((dataArr[0] & 0x08) == 0x08) {
-				messageList.add("盖锁开启");
-			}else {
-				messageList.add("盖锁关闭");
-			}
-		}else if(command == 2) {
-			if((dataArr[0] & 0x10) == 0x10) {
-				messageList.add("硫化物未超标");
-			}else {
-				messageList.add("硫化物超标");
-			}
-			if((dataArr[0] & 0x20) == 0x20) {
-				messageList.add("甲烷未超标");
-				messageList.add("一氧化碳未超标");
-			}else {
-				messageList.add("甲烷超标");
-				messageList.add("一氧化碳超标");
-			}
-			byte distance = dataArr[1];
-			int distanceValue = (int)distance;
-		}else if(command == 3) {
-			if((dataArr[0] & 0x01) == 0x01) {
-				messageList.add("震动");
-			}else {
-				messageList.add("无震动");
-			}
-			if((dataArr[0] & 0x04) == 0x04) {
-				messageList.add("外井盖开启");
-			}else {
-				messageList.add("外井盖关闭");
-			}
-			if((dataArr[0] & 0x02) == 0x02) {
-				messageList.add("内井盖开启");
-			}else {
-				messageList.add("内井盖关闭");
-			}
-			if((dataArr[0] & 0x08) == 0x08) {
-				messageList.add("盖锁开启");
-			}else {
-				messageList.add("盖锁关闭");
-			}
-		}
-		
-		for(int i = 0; i < messageList.size(); i++)
-		{
-			sendToWeb(messageList.get(i));
-			Thread.currentThread().sleep(500);
+		}else if(start == 0x51 && end == 0x6B) {
+			//管线服务
+			
+			
+			
+			
 		}
 
 		

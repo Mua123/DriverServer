@@ -35,6 +35,7 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		int NBPort = -1;
 		int WebPort = -1;
+		int WebPortGx = -1;
 		
 		
 		//设置log4j配置
@@ -55,7 +56,7 @@ public class Main {
 	    	WebPort = Integer.parseInt(prop.getProperty("Web_port"));
 	    }
 	    if(prop.getProperty("Web_port_gx") != null) {
-	    	WebPort = Integer.parseInt(prop.getProperty("Web_port_gx"));
+	    	WebPortGx = Integer.parseInt(prop.getProperty("Web_port_gx"));
 	    }
 		in.close();
 		//启动NB接收服务
@@ -71,6 +72,12 @@ public class Main {
 		}else {
 			WebServer.startWebServer(WebPort);
 		}
+		
+//		if(WebPort == -1) {
+//			WebServer.startWebServerGX(12347);
+//		}else {
+//			WebServer.startWebServerGX(WebPortGx);
+//		}
 		
 		Timer timer = new Timer();
 		timer.schedule(new ReconnectTimerTask(), 5000, 6 * 60 * 60 * 1000);

@@ -2207,3 +2207,1680 @@ java.io.IOException: 远程主机强迫关闭了一个现有的连接。
 2018-10-05 21:32:25,218 INFO [com.pioteks.handler.WebServerHandler] - Web Server opened Session ID =1
 2018-10-05 21:32:25,218 INFO [com.pioteks.handler.WebServerHandler] - 接收来自WEB客户端 :127.0.0.1的连接.
 2018-10-05 21:32:55,396 DEBUG [com.pioteks.handler.WebServerHandler] - heart beat package
+2018-11-09 16:18:01,012 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 16:18:01,013 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 16:18:01,617 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 16:18:01,635 INFO [com.pioteks.server.WebServer] - WebServer start in 12347 ..
+2018-11-09 16:18:01,644 INFO [com.pioteks.main.Main] - Fri Nov 09 16:18:01 GMT+08:00 2018UsrThread start
+2018-11-09 16:18:01,774 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 16:18:06,636 INFO [com.pioteks.timer.ReconnectTimerTask] - Fri Nov 09 16:18:06 GMT+08:00 2018 reconnect task start
+2018-11-09 16:18:08,651 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 16:18:27,512 INFO [com.pioteks.handler.WebServerHandler] - Web Session created...
+2018-11-09 16:18:27,514 INFO [com.pioteks.handler.WebServerHandler] - Web Session opened...
+2018-11-09 16:18:27,514 INFO [com.pioteks.handler.WebServerHandler] - Web Server opened Session ID =1
+2018-11-09 16:18:27,514 INFO [com.pioteks.handler.WebServerHandler] - 接收来自WEB客户端 :127.0.0.1的连接.
+2018-11-09 16:21:10,202 INFO [com.pioteks.handler.WebServerHandler] - Web Session closed...
+2018-11-09 16:21:58,612 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 16:21:58,612 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 16:21:59,116 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 16:23:03,954 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 16:23:03,954 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 16:23:04,459 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 16:23:04,476 INFO [com.pioteks.server.WebServer] - WebServer start in 12347 ..
+2018-11-09 16:23:04,485 INFO [com.pioteks.main.Main] - Fri Nov 09 16:23:04 GMT+08:00 2018UsrThread start
+2018-11-09 16:23:04,571 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 16:23:09,476 INFO [com.pioteks.timer.ReconnectTimerTask] - Fri Nov 09 16:23:09 GMT+08:00 2018 reconnect task start
+2018-11-09 16:23:11,489 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 16:24:23,890 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 16:24:23,890 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 16:24:24,398 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 16:24:24,416 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-09 16:24:24,448 INFO [com.pioteks.server.WebServer] - WebServer_gx start in 12347 ..
+2018-11-09 16:24:24,457 INFO [com.pioteks.main.Main] - Fri Nov 09 16:24:24 GMT+08:00 2018UsrThread start
+2018-11-09 16:24:24,543 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 16:24:29,449 INFO [com.pioteks.timer.ReconnectTimerTask] - Fri Nov 09 16:24:29 GMT+08:00 2018 reconnect task start
+2018-11-09 16:24:31,461 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 16:24:59,897 INFO [com.pioteks.handler.WebServerGXHandler] - GXWeb Session created...
+2018-11-09 16:24:59,899 INFO [com.pioteks.handler.WebServerGXHandler] - GXWeb Session opened...
+2018-11-09 16:24:59,899 INFO [com.pioteks.handler.WebServerGXHandler] - GXWeb Server opened Session ID =1
+2018-11-09 16:24:59,899 INFO [com.pioteks.handler.WebServerGXHandler] - 接收来自GXWEB客户端 :127.0.0.1的连接.
+2018-11-09 16:25:02,822 INFO [com.pioteks.handler.WebServerGXHandler] - GXWeb Session closed...
+2018-11-09 16:41:19,260 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 16:41:19,260 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 16:41:19,786 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 16:41:24,805 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 16:41:24,806 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 16:41:25,303 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 16:41:25,321 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-09 16:41:25,351 INFO [com.pioteks.server.WebServer] - WebServer_gx start in 12347 ..
+2018-11-09 16:41:25,361 INFO [com.pioteks.main.Main] - Fri Nov 09 16:41:25 GMT+08:00 2018UsrThread start
+2018-11-09 16:41:25,496 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 16:41:30,351 INFO [com.pioteks.timer.ReconnectTimerTask] - Fri Nov 09 16:41:30 GMT+08:00 2018 reconnect task start
+2018-11-09 16:41:32,364 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:08:12,360 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 20:08:12,361 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 20:08:12,884 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 20:08:12,911 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-09 20:08:12,921 INFO [com.pioteks.main.Main] - Fri Nov 09 20:08:12 GMT+08:00 2018UsrThread start
+2018-11-09 20:08:13,034 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:16:17,443 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 20:16:17,444 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 20:16:17,968 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 20:16:17,989 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-09 20:16:17,999 INFO [com.pioteks.main.Main] - Fri Nov 09 20:16:17 GMT+08:00 2018UsrThread start
+2018-11-09 20:16:18,090 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:16:22,991 INFO [com.pioteks.timer.ReconnectTimerTask] - Fri Nov 09 20:16:22 GMT+08:00 2018 reconnect task start
+2018-11-09 20:16:25,003 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:17:28,996 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 20:17:28,997 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 20:17:29,514 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 20:17:29,533 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-09 20:17:29,542 INFO [com.pioteks.main.Main] - Fri Nov 09 20:17:29 GMT+08:00 2018UsrThread start
+2018-11-09 20:17:29,631 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:17:34,534 INFO [com.pioteks.timer.ReconnectTimerTask] - Fri Nov 09 20:17:34 GMT+08:00 2018 reconnect task start
+2018-11-09 20:17:36,544 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:17:43,268 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-06-00-16-6F
+2018-11-09 20:17:43,477 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:17:45,647 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:17:59,715 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-02-00-12-6F
+2018-11-09 20:18:00,983 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:18:02,269 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:18:03,590 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:18:04,853 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-02-00-12-6F
+2018-11-09 20:18:07,887 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-06-00-16-6F
+2018-11-09 20:18:08,088 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-05-00-80-95-6F
+2018-11-09 20:18:09,830 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-06-3E-16-6A-6F
+2018-11-09 20:18:11,097 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-07-3A-14-65-6F
+2018-11-09 20:18:15,084 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:18:49,310 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 20:18:49,311 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 20:18:49,841 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 20:18:49,863 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-09 20:18:49,873 INFO [com.pioteks.main.Main] - Fri Nov 09 20:18:49 GMT+08:00 2018UsrThread start
+2018-11-09 20:18:49,966 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:18:54,865 INFO [com.pioteks.timer.ReconnectTimerTask] - Fri Nov 09 20:18:54 GMT+08:00 2018 reconnect task start
+2018-11-09 20:18:56,876 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:19:27,479 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-06-00-16-6F
+2018-11-09 20:19:27,746 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:19:44,077 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-05-00-80-95-6F
+2018-11-09 20:19:45,983 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-06-35-12-5D-6F
+2018-11-09 20:19:47,243 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-07-3A-14-65-6F
+2018-11-09 20:20:16,633 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-09 20:20:16,634 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-09 20:20:17,142 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-09 20:20:17,172 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-09 20:20:17,184 INFO [com.pioteks.main.Main] - Fri Nov 09 20:20:17 GMT+08:00 2018UsrThread start
+2018-11-09 20:20:17,287 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:20:22,172 INFO [com.pioteks.timer.ReconnectTimerTask] - Fri Nov 09 20:20:22 GMT+08:00 2018 reconnect task start
+2018-11-09 20:20:24,183 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-09 20:21:01,564 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-06-00-16-6F
+2018-11-09 20:21:01,570 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"temp":"","hardwareid":"65297","inlight":"1","ics":"0","humidity":"","vibrate":"0","lockstatus":"1","sn":"1000","batterylevel":"","r_addr":"","ocs":"1"}
+2018-11-09 20:21:02,647 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:21:02,647 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"temp":"","hardwareid":"65297","inlight":"0","ics":"0","humidity":"","vibrate":"0","lockstatus":"1","sn":"1001","batterylevel":"","r_addr":"","ocs":"0"}
+2018-11-09 20:21:03,309 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:21:03,309 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"temp":"","hardwareid":"65297","inlight":"0","ics":"0","humidity":"","vibrate":"0","lockstatus":"1","sn":"1002","batterylevel":"","r_addr":"","ocs":"0"}
+2018-11-09 20:21:04,687 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-00-00-10-6F
+2018-11-09 20:21:04,687 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"temp":"","hardwareid":"65297","inlight":"0","ics":"0","humidity":"","vibrate":"0","lockstatus":"1","sn":"1003","batterylevel":"","r_addr":"","ocs":"0"}
+2018-11-09 20:21:05,952 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-02-00-12-6F
+2018-11-09 20:21:05,953 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"temp":"","hardwareid":"65297","inlight":"1","ics":"0","humidity":"","vibrate":"0","lockstatus":"1","sn":"1004","batterylevel":"","r_addr":"","ocs":"0"}
+2018-11-09 20:21:06,800 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-00-02-00-12-6F
+2018-11-09 20:21:06,800 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"temp":"","hardwareid":"65297","inlight":"1","ics":"0","humidity":"","vibrate":"0","lockstatus":"1","sn":"1005","batterylevel":"","r_addr":"","ocs":"0"}
+2018-11-09 20:21:23,282 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-05-00-80-95-6F
+2018-11-09 20:21:23,282 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"hardwareid":"65297","r_addr":""}
+2018-11-09 20:21:24,528 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-06-34-11-5B-6F
+2018-11-09 20:21:24,528 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"hardwareid":"65297","r_addr":""}
+2018-11-09 20:21:26,440 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-FF-11-07-3A-14-65-6F
+2018-11-09 20:21:26,441 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"temp":"20","hardwareid":"65297","inlight":"0","ics":"0","humidity":"58","vibrate":"0","lockstatus":"1","sn":"2000","batterylevel":"8","r_addr":"","ocs":"0"}
+2018-11-11 17:21:19,160 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-11 17:21:19,166 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-11 17:21:19,755 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-11 17:21:19,771 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-11 17:21:19,780 INFO [com.pioteks.main.Main] - Sun Nov 11 17:21:19 GMT+08:00 2018UsrThread start
+2018-11-11 17:21:19,912 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-11 17:21:20,894 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-00-02-00-00-5A
+2018-11-11 17:21:22,227 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-05-00-C0-75-6F
+2018-11-11 17:21:22,232 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":"{\"data\":\"{\\\"dt\\\":\\\"bluetooth manhole\\\",\\\"temp\\\":\\\"\\\",\\\"hardwareid\\\":\\\"45056\\\",\\\"inlight\\\":\\\"0\\\",\\\"ics\\\":\\\"0\\\",\\\"humidity\\\":\\\"\\\",\\\"vibrate\\\":\\\"0\\\",\\\"lockstatus\\\":\\\"0\\\",\\\"sn\\\":\\\"2000\\\",\\\"batterylevel\\\":\\\"12\\\",\\\"r_addr\\\":\\\"\\\",\\\"ocs\\\":\\\"0\\\"}\",\"serviceId\":\"serviceId\"}","deviceId":"","gatewayId":"huaweigateway"}
+2018-11-11 17:21:22,352 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX result:{"status":200,"message":"OK"}
+2018-11-11 17:21:22,376 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-06-1B-05-D6-6F
+2018-11-11 17:21:24,071 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-07-3E-15-0A-6F
+2018-11-11 17:21:24,071 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":"{\"data\":\"{\\\"dt\\\":\\\"bluetooth manhole\\\",\\\"temp\\\":\\\"21\\\",\\\"hardwareid\\\":\\\"45056\\\",\\\"inlight\\\":\\\"\\\",\\\"ics\\\":\\\"\\\",\\\"humidity\\\":\\\"62\\\",\\\"vibrate\\\":\\\"\\\",\\\"lockstatus\\\":\\\"0\\\",\\\"sn\\\":\\\"2001\\\",\\\"batterylevel\\\":\\\"\\\",\\\"r_addr\\\":\\\"\\\",\\\"ocs\\\":\\\"\\\"}\",\"serviceId\":\"serviceId\"}","deviceId":"","gatewayId":"huaweigateway"}
+2018-11-11 17:21:24,080 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX result:HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8{"status":200,"message":"OK"}
+2018-11-11 17:21:24,772 INFO [com.pioteks.timer.ReconnectTimerTask] - Sun Nov 11 17:21:24 GMT+08:00 2018 reconnect task start
+2018-11-11 17:21:51,999 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-11 17:21:52,000 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-11 17:21:52,503 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-11 17:21:52,520 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-11 17:21:52,529 INFO [com.pioteks.main.Main] - Sun Nov 11 17:21:52 GMT+08:00 2018UsrThread start
+2018-11-11 17:21:52,645 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-11 17:21:57,520 INFO [com.pioteks.timer.ReconnectTimerTask] - Sun Nov 11 17:21:57 GMT+08:00 2018 reconnect task start
+2018-11-11 17:21:59,532 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-11 17:22:27,104 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-00-02-00-00-5A
+2018-11-11 17:22:28,124 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-00-00-00-FE-5A
+2018-11-11 17:22:30,011 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-00-02-00-00-5A
+2018-11-11 17:22:31,911 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-00-00-00-FE-5A
+2018-11-11 17:22:44,732 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-05-02-FF-04-5A
+2018-11-11 17:22:46,731 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-06-00-00-04-5A
+2018-11-11 17:22:48,009 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-07-00-00-05-5A
+2018-11-11 17:23:05,153 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-03-05-00-71-19-5A
+2018-11-11 17:23:05,159 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:05,159 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40963
+2018-11-11 17:23:05,660 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:05,660 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-11 17:23:06,160 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:06,160 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-11 17:23:06,661 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:06,661 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-11 17:23:07,162 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:07,162 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-11 17:23:07,662 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:07,662 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-11 17:23:08,163 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:08,163 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-11 17:23:08,664 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:08,664 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-11 17:23:09,164 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:09,164 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery7
+2018-11-11 17:23:09,665 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:09,665 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-11 17:23:10,166 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-03-06-16-00-BF-5A
+2018-11-11 17:23:10,166 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:10,166 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40963
+2018-11-11 17:23:10,667 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:10,667 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value22
+2018-11-11 17:23:11,168 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:11,168 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-11 17:23:11,668 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-03-07-5D-14-1B-5A
+2018-11-11 17:23:11,668 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:11,668 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40963
+2018-11-11 17:23:12,169 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:12,169 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture93
+2018-11-11 17:23:12,670 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-11 17:23:12,670 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-11 17:27:27,044 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-05-00-C0-75-6F
+2018-11-11 17:27:27,229 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-06-1B-05-D6-6F
+2018-11-11 17:27:28,876 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-07-3E-15-0A-6F
+2018-11-11 17:28:44,129 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-11 17:28:44,130 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-11 17:28:44,601 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-11 17:28:44,617 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-11 17:28:44,626 INFO [com.pioteks.main.Main] - Sun Nov 11 17:28:44 GMT+08:00 2018UsrThread start
+2018-11-11 17:28:44,712 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-11 17:28:49,619 INFO [com.pioteks.timer.ReconnectTimerTask] - Sun Nov 11 17:28:49 GMT+08:00 2018 reconnect task start
+2018-11-11 17:28:51,630 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-11 17:33:31,204 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-05-00-C0-75-6F
+2018-11-11 17:33:31,942 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-06-1B-05-D6-6F
+2018-11-11 17:33:33,714 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-07-3D-15-09-6F
+2018-11-11 17:34:38,469 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-05-00-FF-02-5A
+2018-11-11 17:34:38,555 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-06-00-00-04-5A
+2018-11-11 17:34:40,334 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-07-00-00-05-5A
+2018-11-11 17:39:35,981 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-05-00-C0-75-6F
+2018-11-11 17:39:36,579 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-06-1B-05-D6-6F
+2018-11-11 17:39:38,522 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-07-3E-15-0A-6F
+2018-11-11 17:40:34,224 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-05-00-FF-02-5A
+2018-11-11 17:40:35,072 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-06-00-00-04-5A
+2018-11-11 17:40:36,098 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-07-00-00-05-5A
+2018-11-11 18:04:26,668 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-11 18:04:26,668 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-11 18:04:27,193 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-11 18:04:27,210 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-11 18:04:27,220 INFO [com.pioteks.main.Main] - Sun Nov 11 18:04:27 GMT+08:00 2018UsrThread start
+2018-11-11 18:04:27,308 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-11 18:04:32,211 INFO [com.pioteks.timer.ReconnectTimerTask] - Sun Nov 11 18:04:32 GMT+08:00 2018 reconnect task start
+2018-11-11 18:04:34,222 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-11 18:09:59,379 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-05-00-C0-75-6F
+2018-11-11 18:09:59,385 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"","hardwareid":"45056","inlight":"0","ics":"0","humidity":"","vibrate":"0","lockstatus":"0","sn":"2000","batterylevel":"12","r_addr":"","ocs":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-11 18:09:59,401 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX result:HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8HTTP/1.1 200 OKX-Application-Context: applicationAccess-Control-Allow-Origin: *Access-Control-Allow-Credentials: trueContent-Type: application/json;charset=UTF-8{"status":200,"message":"OK"}
+2018-11-11 18:09:59,965 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-06-1B-05-D6-6F
+2018-11-11 18:10:01,930 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-00-07-3F-15-0B-6F
+2018-11-11 18:10:01,930 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"21","hardwareid":"45056","inlight":"","ics":"","humidity":"63","vibrate":"","lockstatus":"0","sn":"2001","batterylevel":"","r_addr":"","ocs":""},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-11 18:10:01,937 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX result:{"status":200,"message":"OK"}
+2018-11-11 18:10:15,395 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-05-00-FF-02-5A
+2018-11-11 18:10:15,535 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-FF-FF-06-00-00-04-5A
+2018-11-26 16:31:41,331 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 16:31:41,332 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 16:31:41,812 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 16:31:41,827 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 16:31:41,838 INFO [com.pioteks.main.Main] - Mon Nov 26 16:31:41 GMT+08:00 2018UsrThread start
+2018-11-26 16:31:41,990 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 16:31:46,828 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 16:31:46 GMT+08:00 2018 reconnect task start
+2018-11-26 16:31:48,860 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 16:35:28,033 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 16:35:33,039 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 16:35:34,541 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-46-14-01-5A
+2018-11-26 17:35:04,150 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 17:35:04,151 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 17:35:04,531 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 17:35:04,547 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 17:35:04,556 INFO [com.pioteks.main.Main] - Mon Nov 26 17:35:04 GMT+08:00 2018UsrThread start
+2018-11-26 17:35:04,703 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:35:09,548 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 17:35:09 GMT+08:00 2018 reconnect task start
+2018-11-26 17:35:11,573 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:36:42,707 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 17:36:43,131 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 17:36:43,982 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 17:38:14,135 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 17:38:14,136 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 17:38:14,522 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 17:38:14,539 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 17:38:14,547 INFO [com.pioteks.main.Main] - Mon Nov 26 17:38:14 GMT+08:00 2018UsrThread start
+2018-11-26 17:38:14,647 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:38:17,123 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-00-00-B1-6F
+2018-11-26 17:38:19,539 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 17:38:19 GMT+08:00 2018 reconnect task start
+2018-11-26 17:38:21,563 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:38:51,132 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-00-00-B1-6F
+2018-11-26 17:39:08,063 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-02-00-B3-6F
+2018-11-26 17:39:25,664 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-08-00-B9-6F
+2018-11-26 17:39:45,690 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-08-EF-AD-6F
+2018-11-26 17:39:48,363 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 17:39:49,514 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 17:39:56,997 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 17:39:57,003 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:39:57,003 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:39:57,504 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:39:57,504 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 17:39:58,005 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:39:58,005 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 17:39:58,506 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:39:58,506 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 17:39:59,006 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:39:59,006 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 17:39:59,507 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:39:59,507 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 17:40:00,008 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:00,008 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 17:40:00,508 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:00,508 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 17:40:01,009 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:01,009 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 17:40:01,510 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:01,510 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 17:40:02,011 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 17:40:02,011 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:02,011 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:40:02,511 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:02,511 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 17:40:03,012 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:03,012 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 17:40:03,513 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-46-14-01-5A
+2018-11-26 17:40:03,513 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:03,513 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:40:04,014 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:04,014 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture70
+2018-11-26 17:40:04,514 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:40:04,514 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 17:40:59,450 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-00-00-B1-6F
+2018-11-26 17:42:29,421 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 17:42:29,422 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 17:42:29,799 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 17:42:29,814 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 17:42:29,823 INFO [com.pioteks.main.Main] - Mon Nov 26 17:42:29 GMT+08:00 2018UsrThread start
+2018-11-26 17:42:29,931 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:42:34,816 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 17:42:34 GMT+08:00 2018 reconnect task start
+2018-11-26 17:42:36,848 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:44:41,614 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 17:44:41,614 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 17:44:42,045 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 17:44:42,063 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 17:44:42,086 INFO [com.pioteks.main.Main] - Mon Nov 26 17:44:42 GMT+08:00 2018UsrThread start
+2018-11-26 17:44:42,189 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:44:47,063 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 17:44:47 GMT+08:00 2018 reconnect task start
+2018-11-26 17:44:49,091 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:45:48,345 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 17:45:59,384 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:45:59,384 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:45:59,884 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:45:59,884 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 17:46:00,385 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:00,385 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 17:46:00,886 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:00,886 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 17:46:01,387 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:01,387 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 17:46:01,887 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:01,887 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 17:46:02,388 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:02,388 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 17:46:02,889 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:02,889 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 17:46:03,390 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:03,390 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 17:46:03,890 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:03,890 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 17:46:04,391 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 17:46:04,391 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:04,391 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:46:04,892 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:04,892 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 17:46:05,393 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:05,393 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 17:46:05,893 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 17:46:05,893 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:05,893 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:46:06,394 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:06,394 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 17:46:06,895 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:46:06,895 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 17:46:56,495 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 17:46:56,749 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 17:46:57,446 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 17:47:35,160 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 17:47:35,161 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 17:47:35,596 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 17:47:35,613 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 17:47:35,632 INFO [com.pioteks.main.Main] - Mon Nov 26 17:47:35 GMT+08:00 2018UsrThread start
+2018-11-26 17:47:35,762 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:47:40,614 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 17:47:40 GMT+08:00 2018 reconnect task start
+2018-11-26 17:47:42,740 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:47:52,002 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 17:47:52,003 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 17:47:52,422 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 17:47:52,441 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 17:47:52,458 INFO [com.pioteks.main.Main] - Mon Nov 26 17:47:52 GMT+08:00 2018UsrThread start
+2018-11-26 17:47:52,559 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:47:57,441 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 17:47:57 GMT+08:00 2018 reconnect task start
+2018-11-26 17:47:59,469 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:51:40,345 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 17:51:40,356 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:40,356 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:51:40,857 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:40,857 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 17:51:41,358 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:41,358 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 17:51:41,858 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:41,858 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 17:51:42,359 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:42,359 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 17:51:42,860 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:42,860 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 17:51:43,361 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:43,361 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 17:51:43,861 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:43,861 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 17:51:44,362 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:44,362 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 17:51:44,863 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:44,863 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 17:51:45,363 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 17:51:45,363 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:45,363 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:51:45,864 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:45,864 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 17:51:46,365 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:46,365 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 17:51:46,865 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 17:51:46,865 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:46,865 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:51:47,366 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:47,366 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 17:51:47,867 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:51:47,867 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 17:57:31,725 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 17:57:31,725 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:31,725 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:57:32,225 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:32,225 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 17:57:32,726 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:32,726 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 17:57:33,227 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:33,227 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 17:57:33,727 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:33,727 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 17:57:34,228 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:34,228 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 17:57:34,729 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:34,729 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 17:57:35,229 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:35,229 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 17:57:35,730 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:35,730 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 17:57:36,231 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:36,231 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 17:57:36,732 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 17:57:36,732 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:36,732 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:57:37,233 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:37,233 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 17:57:37,733 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:37,733 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 17:57:38,234 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 17:57:38,234 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:38,234 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 17:57:38,735 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:38,735 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 17:57:39,236 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 17:57:39,236 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 17:57:40,390 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 17:57:40,653 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 17:57:41,536 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 17:59:36,413 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 17:59:36,414 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 17:59:36,856 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 17:59:36,877 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 17:59:36,897 INFO [com.pioteks.main.Main] - Mon Nov 26 17:59:36 GMT+08:00 2018UsrThread start
+2018-11-26 17:59:37,009 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 17:59:41,877 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 17:59:41 GMT+08:00 2018 reconnect task start
+2018-11-26 17:59:43,903 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:03:23,671 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 18:03:23,681 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:23,681 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:03:24,181 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:24,181 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 18:03:24,682 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:24,682 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 18:03:25,183 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:25,183 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 18:03:25,683 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:25,683 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 18:03:26,184 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:26,184 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 18:03:26,685 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:26,685 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 18:03:27,185 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:27,185 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 18:03:27,686 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:27,686 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 18:03:28,187 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:28,187 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 18:03:28,688 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 18:03:28,688 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:28,688 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:03:29,189 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:29,189 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 18:03:29,689 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:29,689 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 18:03:30,190 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-46-14-01-5A
+2018-11-26 18:03:30,190 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:30,190 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:03:30,691 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:30,691 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture70
+2018-11-26 18:03:31,192 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:03:31,192 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 18:08:24,845 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 18:08:25,132 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 18:08:25,988 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 18:10:28,537 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 18:10:28,538 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 18:10:28,973 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 18:10:28,990 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 18:10:29,008 INFO [com.pioteks.main.Main] - Mon Nov 26 18:10:29 GMT+08:00 2018UsrThread start
+2018-11-26 18:10:29,123 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:10:33,991 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 18:10:33 GMT+08:00 2018 reconnect task start
+2018-11-26 18:10:36,016 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:15:07,017 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 18:15:07,026 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:07,027 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:15:07,528 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:07,528 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 18:15:08,029 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:08,029 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 18:15:08,529 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:08,529 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 18:15:09,030 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:09,030 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 18:15:09,531 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:09,531 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 18:15:10,031 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:10,031 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 18:15:10,532 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:10,532 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 18:15:11,033 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:11,033 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 18:15:11,533 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:11,533 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 18:15:12,034 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 18:15:12,034 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:12,034 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:15:12,535 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:12,535 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 18:15:13,035 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:13,035 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 18:15:13,536 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 18:15:13,536 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:13,536 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:15:14,037 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:14,037 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 18:15:14,537 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:15:14,537 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 18:19:09,404 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 18:19:09,796 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 18:19:10,897 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 18:20:02,393 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2000","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 18:22:02,357 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 18:22:02,358 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 18:22:02,811 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 18:22:02,827 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 18:22:02,847 INFO [com.pioteks.main.Main] - Mon Nov 26 18:22:02 GMT+08:00 2018UsrThread start
+2018-11-26 18:22:02,965 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:22:07,827 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 18:22:07 GMT+08:00 2018 reconnect task start
+2018-11-26 18:22:09,859 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:27:06,135 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 18:27:06,135 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 18:27:06,576 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 18:27:06,593 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 18:27:06,612 INFO [com.pioteks.main.Main] - Mon Nov 26 18:27:06 GMT+08:00 2018UsrThread start
+2018-11-26 18:27:06,737 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:27:11,595 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 18:27:11 GMT+08:00 2018 reconnect task start
+2018-11-26 18:27:13,622 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:29:54,471 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 18:29:54,986 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 18:29:55,641 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 18:31:42,470 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2000","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 18:34:07,784 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 18:34:07,784 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 18:34:08,159 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 18:34:08,179 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 18:34:08,188 INFO [com.pioteks.main.Main] - Mon Nov 26 18:34:08 GMT+08:00 2018UsrThread start
+2018-11-26 18:34:08,300 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:34:13,179 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 18:34:13 GMT+08:00 2018 reconnect task start
+2018-11-26 18:34:15,204 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:38:38,345 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 18:38:38,351 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:38,351 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:38:38,851 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:38,851 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 18:38:39,352 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:39,352 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 18:38:39,852 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:39,852 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 18:38:40,353 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:40,353 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 18:38:40,854 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:40,854 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 18:38:41,354 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:41,354 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 18:38:41,855 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:41,855 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 18:38:42,355 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:42,355 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 18:38:42,856 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:42,856 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 18:38:43,357 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 18:38:43,357 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:43,357 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:38:43,857 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:43,857 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 18:38:44,358 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:44,358 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 18:38:44,859 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 18:38:44,859 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:44,859 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:38:45,359 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:45,359 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 18:38:45,860 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:38:45,860 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 18:40:38,877 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 18:40:39,318 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 18:40:39,786 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 18:40:39,788 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2000","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 18:40:39,803 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX result:{"status":200,"message":"OK"}
+2018-11-26 18:43:39,599 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 18:43:39,600 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 18:43:39,998 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 18:43:40,015 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 18:43:40,023 INFO [com.pioteks.main.Main] - Mon Nov 26 18:43:40 GMT+08:00 2018UsrThread start
+2018-11-26 18:43:40,177 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:43:45,016 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 18:43:45 GMT+08:00 2018 reconnect task start
+2018-11-26 18:43:47,041 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 18:44:26,393 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 18:44:26,399 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:26,399 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:44:26,899 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:26,899 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 18:44:27,400 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:27,400 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 18:44:27,901 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:27,901 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 18:44:28,401 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:28,401 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 18:44:28,902 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:28,902 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 18:44:29,402 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:29,402 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 18:44:29,903 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:29,903 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 18:44:30,404 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:30,404 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 18:44:30,904 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:30,904 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 18:44:31,405 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 18:44:31,405 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:31,405 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:44:31,909 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:31,909 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 18:44:32,409 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:32,409 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 18:44:32,910 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 18:44:32,910 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:32,910 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:44:33,410 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:33,410 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 18:44:33,911 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:44:33,911 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 18:50:19,676 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 18:50:19,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:19,677 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:50:20,177 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:20,177 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 18:50:20,678 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:20,678 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 18:50:21,179 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:21,179 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 18:50:21,679 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:21,679 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 18:50:22,180 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:22,180 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 18:50:22,681 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:22,681 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 18:50:23,181 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:23,181 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 18:50:23,682 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:23,682 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 18:50:24,183 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:24,183 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 18:50:24,683 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 18:50:24,683 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:24,683 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:50:25,184 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:25,184 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 18:50:25,685 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:25,685 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 18:50:26,185 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 18:50:26,185 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:26,185 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:50:26,686 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:26,686 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 18:50:27,187 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:50:27,187 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 18:51:23,962 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 18:51:24,277 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 18:51:24,630 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 18:51:24,631 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2000","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 18:56:12,842 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 18:56:12,843 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:12,843 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:56:13,343 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:13,343 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 18:56:13,843 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:13,843 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 18:56:14,344 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:14,344 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 18:56:14,844 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:14,844 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 18:56:15,345 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:15,345 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 18:56:15,845 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:15,845 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 18:56:16,346 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:16,346 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 18:56:16,847 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:16,847 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 18:56:17,348 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:17,348 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 18:56:17,848 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 18:56:17,848 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:17,848 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:56:18,348 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:18,348 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 18:56:18,849 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:18,849 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 18:56:19,350 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 18:56:19,350 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:19,350 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 18:56:19,850 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:19,850 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 18:56:20,351 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 18:56:20,351 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:02:01,066 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 19:02:01,066 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:01,066 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:02:01,566 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:01,566 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:02:02,067 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:02,067 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:02:02,568 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:02,568 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:02:03,068 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:03,068 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:02:03,568 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:03,568 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:02:04,069 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:04,069 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:02:04,570 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:04,570 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:02:05,071 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:05,071 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:02:05,571 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:05,571 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 19:02:06,071 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 19:02:06,071 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:06,071 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:02:06,572 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:06,572 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 19:02:07,073 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:07,073 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 19:02:07,573 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 19:02:07,573 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:07,573 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:02:08,074 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:08,074 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 19:02:08,574 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:02:08,574 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:02:09,075 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 19:02:09,075 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 19:02:09,472 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 19:02:09,472 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2001","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 19:07:54,231 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 19:07:54,231 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:54,231 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:07:54,732 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:54,732 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:07:55,233 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:55,233 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:07:55,733 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:55,733 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:07:56,233 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:56,233 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:07:56,734 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:56,734 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:07:57,234 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:57,234 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:07:57,735 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:57,735 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:07:58,236 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:58,236 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:07:58,736 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:59,317 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 19:07:59,817 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 19:07:59,817 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:07:59,817 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:08:00,318 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:08:00,318 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 19:08:00,818 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:08:00,818 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 19:08:01,319 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 19:08:01,319 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:08:01,319 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:08:01,819 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:08:01,819 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 19:08:02,319 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:08:02,319 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:12:52,770 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 19:12:53,070 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 19:12:54,203 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 19:12:54,203 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2002","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 19:13:47,526 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 19:13:47,526 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:47,527 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:13:48,027 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:48,027 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:13:48,527 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:48,527 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:13:49,028 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:49,028 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:13:49,528 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:49,528 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:13:50,028 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:50,028 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:13:50,529 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:50,529 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:13:51,029 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:51,029 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:13:51,530 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:51,530 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:13:52,030 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:52,030 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 19:13:52,531 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 19:13:52,531 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:52,531 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:13:53,031 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:53,031 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 19:13:53,532 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:53,532 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 19:13:54,033 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 19:13:54,033 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:54,033 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:13:54,533 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:54,533 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 19:13:55,034 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:13:55,034 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:19:35,611 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 19:19:35,611 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:35,611 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:19:36,112 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:36,112 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:19:36,612 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:36,612 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:19:37,112 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:37,112 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:19:37,613 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:37,613 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:19:38,114 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:38,114 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:19:38,614 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:38,614 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:19:39,115 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:39,115 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:19:39,615 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:39,615 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:19:40,116 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:40,116 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 19:19:40,616 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 19:19:40,616 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:40,616 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:19:41,117 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:41,117 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 19:19:41,617 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:41,617 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 19:19:42,117 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 19:19:42,117 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:42,117 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:19:42,618 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:42,618 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 19:19:43,119 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:19:43,119 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:23:37,280 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 19:23:37,696 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 19:23:38,818 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 19:23:38,818 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2003","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 19:25:28,874 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 19:25:28,874 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:28,874 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:25:29,375 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:29,375 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:25:29,875 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:29,875 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:25:30,375 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:30,375 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:25:30,876 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:30,876 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:25:31,377 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:31,377 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:25:31,877 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:31,877 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:25:32,378 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:32,378 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:25:32,879 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:32,879 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:25:33,379 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:33,379 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 19:25:33,880 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 19:25:33,880 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:33,880 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:25:34,380 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:34,380 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 19:25:34,880 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:34,880 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 19:25:35,381 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 19:25:35,381 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:35,381 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:25:35,882 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:35,882 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 19:25:36,383 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:25:36,383 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:31:22,132 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-26 19:31:22,132 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:22,132 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:31:22,633 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:22,633 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:31:23,134 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:23,134 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:31:23,634 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:23,634 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:31:24,135 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:24,135 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:31:24,635 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:24,635 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:31:25,135 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:25,135 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:31:25,636 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:25,636 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:31:26,137 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:26,137 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:31:26,637 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:26,637 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-26 19:31:27,138 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 19:31:27,138 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:27,138 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:31:27,638 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:27,638 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 19:31:28,139 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:28,139 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 19:31:28,639 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 19:31:28,639 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:28,639 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:31:29,140 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:29,140 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 19:31:29,640 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:31:29,640 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:34:21,897 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 19:34:22,167 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 19:34:23,064 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 19:34:23,064 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2004","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 19:37:10,308 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 19:37:10,309 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:10,309 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:37:10,809 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:10,809 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:37:11,309 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:11,309 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:37:11,810 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:11,810 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:37:12,311 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:12,311 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:37:12,811 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:12,811 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:37:13,312 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:13,312 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:37:13,812 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:13,812 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:37:14,313 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:14,313 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:37:14,813 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:14,813 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-26 19:37:15,314 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 19:37:15,314 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:15,314 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:37:15,815 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:15,815 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 19:37:16,315 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:16,315 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 19:37:16,816 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 19:37:16,816 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:16,816 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:37:17,316 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:17,316 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 19:37:17,816 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:37:17,816 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:43:03,590 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 19:43:03,591 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:43:03,591 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:43:04,091 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:43:04,091 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:43:04,592 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:43:04,592 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:43:05,092 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:43:05,092 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:43:05,593 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:43:05,593 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:43:06,094 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:43:06,094 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:43:06,594 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:43:06,594 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:43:07,095 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:43:07,095 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:43:07,596 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:43:07,596 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:46:51,010 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-26 19:46:51,011 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-26 19:46:51,387 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-26 19:46:51,404 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-26 19:46:51,413 INFO [com.pioteks.main.Main] - Mon Nov 26 19:46:51 GMT+08:00 2018UsrThread start
+2018-11-26 19:46:51,573 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 19:46:56,405 INFO [com.pioteks.timer.ReconnectTimerTask] - Mon Nov 26 19:46:56 GMT+08:00 2018 reconnect task start
+2018-11-26 19:46:58,433 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-26 19:48:56,869 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 19:48:56,875 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:48:56,875 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:48:57,375 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:48:57,375 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:48:57,876 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:48:57,876 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:48:58,376 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:48:58,376 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:48:58,876 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:48:58,876 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:48:59,377 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:48:59,377 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:48:59,877 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:48:59,877 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:49:00,378 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:49:00,378 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:49:00,878 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:49:00,878 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:49:01,378 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:49:01,378 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-26 19:49:01,879 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 19:49:01,879 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:49:01,879 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:49:02,379 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:49:02,379 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 19:49:02,880 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:49:02,880 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 19:49:03,381 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 19:49:03,381 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:49:03,381 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:49:03,881 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:49:03,881 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 19:49:04,382 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:49:04,382 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:54:50,185 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 19:54:50,186 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:50,186 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:54:50,686 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:50,686 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 19:54:51,187 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:51,187 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 19:54:51,688 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:51,688 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 19:54:52,188 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:52,188 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 19:54:52,688 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:52,688 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 19:54:53,189 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:53,189 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 19:54:53,689 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:53,689 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 19:54:54,190 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:54,190 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 19:54:54,691 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:54,691 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-26 19:54:55,191 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 19:54:55,191 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:55,191 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:54:55,692 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:55,692 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 19:54:56,193 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:56,193 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 19:54:56,693 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 19:54:56,693 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:56,693 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 19:54:57,194 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:57,194 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 19:54:57,694 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 19:54:57,694 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 19:55:50,666 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 19:55:50,911 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 19:55:53,103 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 19:55:53,104 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2000","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 20:00:38,305 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 20:00:38,305 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:38,305 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:00:38,806 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:38,806 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 20:00:39,307 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:39,307 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 20:00:39,807 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:39,807 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 20:00:40,308 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:40,308 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 20:00:40,809 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:40,809 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 20:00:41,310 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:41,310 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 20:00:41,810 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:41,810 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 20:00:42,311 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:42,311 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 20:00:42,811 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:42,811 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-26 20:00:43,312 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 20:00:43,312 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:43,312 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:00:43,812 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:43,812 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 20:00:44,313 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:44,313 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 20:00:44,813 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 20:00:44,813 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:44,813 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:00:45,313 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:45,313 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 20:00:45,814 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:00:45,814 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 20:06:31,617 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 20:06:31,618 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:31,618 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:06:32,118 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:32,118 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 20:06:32,619 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:32,619 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 20:06:33,119 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:33,119 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 20:06:33,620 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:33,620 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 20:06:34,120 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:34,120 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 20:06:34,621 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:34,621 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 20:06:35,121 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:35,121 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 20:06:35,621 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:35,621 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 20:06:36,122 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:36,122 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-26 20:06:36,623 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 20:06:36,623 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:36,623 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:06:37,123 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:37,123 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 20:06:37,623 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:37,623 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 20:06:38,124 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 20:06:38,124 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:38,124 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:06:38,625 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:38,625 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 20:06:39,125 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:06:39,125 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 20:06:39,626 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 20:06:39,626 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 20:06:39,626 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 20:06:39,626 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2001","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 20:12:24,870 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 20:12:24,870 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:24,870 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:12:25,371 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:25,371 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 20:12:25,871 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:25,871 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 20:12:26,372 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:26,372 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 20:12:26,872 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:26,872 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 20:12:27,373 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:27,373 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 20:12:27,873 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:27,873 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 20:12:28,374 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:28,374 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 20:12:28,875 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:28,875 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 20:12:29,375 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:29,441 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-26 20:12:29,941 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 20:12:29,941 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:29,941 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:12:30,442 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:30,442 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 20:12:30,943 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:30,943 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 20:12:31,443 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-47-14-02-5A
+2018-11-26 20:12:31,443 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:31,443 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:12:31,944 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:31,944 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture71
+2018-11-26 20:12:32,444 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:12:32,444 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 20:17:19,630 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 20:17:19,891 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 20:17:22,113 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 20:17:22,114 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2002","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 20:18:13,003 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 20:18:13,003 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:13,003 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:18:13,504 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:13,504 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 20:18:14,005 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:14,005 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 20:18:14,505 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:14,505 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 20:18:15,006 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:15,006 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 20:18:15,506 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:15,506 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 20:18:16,006 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:16,006 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 20:18:16,506 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:16,506 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 20:18:17,007 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:17,007 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 20:18:17,507 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:17,507 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-26 20:18:18,008 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 20:18:18,008 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:18,008 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:18:18,508 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:18,508 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 20:18:19,009 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:19,009 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 20:18:19,510 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-48-14-03-5A
+2018-11-26 20:18:19,510 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:19,510 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:18:20,010 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:20,010 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture72
+2018-11-26 20:18:20,511 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:18:20,511 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature20
+2018-11-26 20:24:06,292 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 20:24:06,292 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:06,292 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:24:06,792 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:06,792 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 20:24:07,293 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:07,293 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 20:24:07,794 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:07,794 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 20:24:08,295 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:08,295 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 20:24:08,795 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:08,795 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 20:24:09,296 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:09,296 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 20:24:09,796 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:09,796 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 20:24:10,297 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:10,297 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 20:24:10,798 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:10,798 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-26 20:24:11,298 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 20:24:11,298 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:11,298 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:24:11,799 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:11,799 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 20:24:12,300 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:12,300 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 20:24:12,801 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-48-13-02-5A
+2018-11-26 20:24:12,801 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:12,801 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:24:13,301 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:13,301 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture72
+2018-11-26 20:24:13,802 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:24:13,802 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature19
+2018-11-26 20:28:04,752 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-26 20:28:04,995 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-26 20:28:05,921 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-26 20:28:05,922 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"temp":"30","vibrate":"","r_addr":"FF","dt":"bluetooth manhole","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","lockstatus":"0","humidity":"39","sn":"2003","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-26 20:29:59,581 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-26 20:29:59,581 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:29:59,581 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:30:00,082 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:00,082 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-26 20:30:00,582 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:00,582 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-26 20:30:01,083 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:01,083 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-26 20:30:01,584 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:01,584 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-26 20:30:02,084 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:02,084 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-26 20:30:02,585 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:02,585 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-26 20:30:03,085 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:03,085 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-26 20:30:03,586 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:03,586 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-26 20:30:04,086 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:04,086 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-26 20:30:04,587 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-26 20:30:04,587 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:04,587 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:30:05,087 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:05,087 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-26 20:30:05,588 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:05,588 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-26 20:30:06,089 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-48-13-02-5A
+2018-11-26 20:30:06,089 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:06,089 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-26 20:30:06,589 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:06,589 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture72
+2018-11-26 20:30:07,090 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-26 20:30:07,090 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature19
+2018-11-27 12:49:00,004 ERROR [com.pioteks.main.Main] - lauach log properties
+2018-11-27 12:49:00,026 ERROR [com.pioteks.main.Main] - log file path:F:\eclipse-workspace\DriverServer0911\log4j.properties
+2018-11-27 12:49:00,488 INFO [com.pioteks.server.NBServer] - NBServer start in 12345 ..
+2018-11-27 12:49:00,504 INFO [com.pioteks.server.WebServer] - WebServer start in 12346 ..
+2018-11-27 12:49:00,513 INFO [com.pioteks.main.Main] - Tue Nov 27 12:49:00 GMT+08:00 2018UsrThread start
+2018-11-27 12:49:00,639 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-27 12:49:05,504 INFO [com.pioteks.timer.ReconnectTimerTask] - Tue Nov 27 12:49:05 GMT+08:00 2018 reconnect task start
+2018-11-27 12:49:07,542 INFO [com.pioteks.usr.ClinetCallbackAdapter] - 与服务器完成连接
+2018-11-27 12:56:44,715 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-04-DF-99-6F
+2018-11-27 12:56:44,720 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-27 12:56:45,435 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-27 12:56:45,437 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"30","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","vibrate":"","humidity":"39","sn":"2000","batterylevel":"13","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:07:41,293 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-04-DF-99-6F
+2018-11-27 13:07:42,488 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-27 13:07:45,695 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-27 13:07:45,695 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"30","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","vibrate":"","humidity":"39","sn":"2001","batterylevel":"13","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:18:13,854 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-04-DF-99-6F
+2018-11-27 13:18:14,192 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-27 13:18:14,384 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-27 13:18:14,384 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"30","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","vibrate":"","humidity":"39","sn":"2002","batterylevel":"13","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:26:12,595 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A-41-A0-00-06-00-00-A6-5A
+2018-11-27 13:26:12,597 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-40-16-FD-5A
+2018-11-27 13:26:12,604 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:26:12,604 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:26:13,105 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:26:13,105 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture64
+2018-11-27 13:26:13,606 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:26:13,606 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature22
+2018-11-27 13:27:31,462 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:27:31,463 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:31,463 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:27:31,964 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:31,964 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:27:32,465 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:32,465 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:27:32,965 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:32,965 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:27:33,466 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:33,466 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:27:33,966 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:33,966 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:27:34,467 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:34,467 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:27:34,967 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:34,967 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:27:40,260 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-04-00-B5-6F
+2018-11-27 13:27:40,260 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"FF","hardwareid":"45057","mact":"1","inlight":"0","ics":"0","humidity":"FF","vibrate":"","sn":"1000","batterylevel":"FF","r_type":"1"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:27:46,174 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E1-86-5A
+2018-11-27 13:27:46,175 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:46,175 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:27:46,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:46,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:27:47,176 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:47,176 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:27:47,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:47,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:27:48,176 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:48,176 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:27:48,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:48,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:27:49,177 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:49,177 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:27:49,677 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:49,677 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:27:50,178 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:50,178 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-27 13:27:50,678 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:50,678 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance1
+2018-11-27 13:27:51,178 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-27 13:27:51,178 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:51,178 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:27:51,679 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:51,679 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-27 13:27:52,179 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:52,179 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-27 13:27:52,680 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-3F-16-FC-5A
+2018-11-27 13:27:52,680 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:52,680 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:27:53,180 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:53,180 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture63
+2018-11-27 13:27:53,681 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:27:53,681 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature22
+2018-11-27 13:27:56,638 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-04-DF-99-6F
+2018-11-27 13:27:56,646 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-27 13:27:56,651 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-27 13:27:56,651 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"30","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","vibrate":"","humidity":"39","sn":"2003","batterylevel":"13","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:28:08,266 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-04-00-B5-6F
+2018-11-27 13:28:08,266 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"FF","hardwareid":"45057","mact":"1","inlight":"0","ics":"0","humidity":"FF","vibrate":"","sn":"1001","batterylevel":"FF","r_type":"1"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:28:25,746 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-04-00-B5-6F
+2018-11-27 13:28:25,746 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"FF","hardwareid":"45057","mact":"1","inlight":"0","ics":"0","humidity":"FF","vibrate":"","sn":"1002","batterylevel":"FF","r_type":"1"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:28:29,899 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-00-00-B1-6F
+2018-11-27 13:28:29,899 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"FF","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","humidity":"FF","vibrate":"","sn":"1003","batterylevel":"FF","r_type":"2"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:29:07,174 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:29:07,174 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:07,174 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:29:07,675 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:07,675 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:29:08,175 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:08,175 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:29:08,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:08,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:29:09,176 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:09,176 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:29:09,677 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:09,677 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:29:10,177 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:10,177 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:29:10,677 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:10,677 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:29:21,357 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-F0-95-5A
+2018-11-27 13:29:21,357 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:21,357 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:29:21,858 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:21,858 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:29:22,359 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:22,359 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:29:22,859 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:22,859 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:29:23,359 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:23,359 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:29:23,860 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:23,860 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:29:24,360 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:24,360 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:29:24,860 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:24,860 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:29:25,361 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:25,361 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery15
+2018-11-27 13:29:25,862 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:25,862 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-27 13:29:26,362 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-27 13:29:26,362 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:26,362 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:29:26,863 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:26,863 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-27 13:29:27,363 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:27,363 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-27 13:29:27,863 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-3E-16-FB-5A
+2018-11-27 13:29:27,863 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:27,863 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:29:28,364 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:28,364 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture62
+2018-11-27 13:29:28,864 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:29:28,864 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature22
+2018-11-27 13:30:02,986 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:30:02,986 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:30:02,986 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:30:03,486 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:30:03,486 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:30:03,986 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:30:03,986 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:30:04,487 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:30:04,487 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:30:04,987 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:30:04,987 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:30:05,487 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:30:05,487 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:30:05,987 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:30:05,987 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:30:06,488 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:30:06,488 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:30:25,344 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-27 13:30:25,785 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-27 13:30:26,514 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-27 13:30:26,514 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"30","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","vibrate":"","humidity":"39","sn":"2004","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:32:56,399 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-27 13:32:56,399 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:32:56,399 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:32:56,900 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:32:56,900 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:32:57,400 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:32:57,400 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:32:57,901 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:32:57,901 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:32:58,401 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:32:58,401 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:32:58,901 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:32:58,901 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:32:59,402 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:32:59,402 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:32:59,902 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:32:59,902 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:33:00,403 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:00,403 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-27 13:33:00,904 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:00,904 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-27 13:33:01,405 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-27 13:33:01,405 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:01,405 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:33:01,906 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:01,906 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-27 13:33:02,406 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:02,406 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-27 13:33:02,907 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-42-16-FF-5A
+2018-11-27 13:33:02,907 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:02,907 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:33:03,407 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:03,407 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture66
+2018-11-27 13:33:03,907 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:03,907 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature22
+2018-11-27 13:33:10,258 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:33:10,258 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:10,258 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:33:10,758 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:10,758 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:33:11,259 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:11,259 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:33:11,760 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:11,760 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:33:12,261 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:12,261 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:33:12,761 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:12,761 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:33:13,261 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:13,261 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:33:13,761 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:33:13,761 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:34:55,425 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-00-00-B1-6F
+2018-11-27 13:34:55,426 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"FF","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","humidity":"FF","vibrate":"","sn":"1004","batterylevel":"FF","r_type":"2"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:37:26,469 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-00-00-B1-6F
+2018-11-27 13:37:26,469 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"FF","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","humidity":"FF","vibrate":"","sn":"1005","batterylevel":"FF","r_type":"2"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:37:39,060 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-27 13:37:39,387 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-27 13:37:42,829 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-27 13:37:42,829 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"30","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","vibrate":"","humidity":"39","sn":"2005","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:38:21,526 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-00-00-B1-6F
+2018-11-27 13:38:21,526 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"FF","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","humidity":"FF","vibrate":"","sn":"1006","batterylevel":"FF","r_type":"2"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:38:38,244 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:38:38,245 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:38,245 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:38:38,746 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:38,746 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:38:39,247 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:39,247 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:38:39,748 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:39,748 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:38:40,248 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:40,248 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:38:40,749 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:40,749 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:38:41,250 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:41,250 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:38:41,751 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:41,751 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:38:52,837 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-05-00-E0-85-5A
+2018-11-27 13:38:52,838 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:52,838 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:38:53,339 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:53,339 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:38:53,840 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:53,840 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:38:54,340 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:54,340 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:38:54,841 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:54,841 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:38:55,342 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:55,342 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:38:55,842 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:55,842 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:38:56,343 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:56,343 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:38:56,844 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:56,844 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Battery14
+2018-11-27 13:38:57,344 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:57,344 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Distance0
+2018-11-27 13:38:57,845 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-06-00-00-A6-5A
+2018-11-27 13:38:57,845 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:57,845 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:38:58,346 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:58,346 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH4Value0
+2018-11-27 13:38:58,846 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:58,846 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SValue0
+2018-11-27 13:38:59,347 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-07-40-16-FD-5A
+2018-11-27 13:38:59,347 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:59,347 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:38:59,848 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:38:59,848 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Moisture64
+2018-11-27 13:39:00,349 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:00,349 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Temperature22
+2018-11-27 13:39:07,169 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:39:07,169 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:07,169 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:39:07,670 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:07,670 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:39:08,171 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:08,171 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:39:08,671 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:08,671 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:39:09,172 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:09,172 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:39:09,673 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:09,673 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:39:10,174 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:10,174 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:39:10,674 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:10,674 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:39:11,175 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:39:11,175 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:11,175 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:39:11,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:11,676 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:39:12,177 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:12,177 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:39:12,678 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:12,678 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:39:13,178 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:13,178 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:39:13,678 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:13,678 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:39:14,179 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:14,179 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:39:14,680 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:14,680 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:39:19,156 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:39:19,156 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:19,156 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:39:19,657 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:19,657 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:39:20,158 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:20,158 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:39:20,659 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:20,659 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:39:21,159 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:21,159 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:39:21,660 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:21,660 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:39:22,160 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:22,160 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:39:22,661 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:22,661 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:39:23,162 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:39:23,162 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:23,162 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:39:23,662 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:23,662 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:39:24,163 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:24,163 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:39:24,664 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:24,664 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:39:25,165 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:25,165 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:39:25,665 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:25,665 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:39:26,166 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:26,166 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:39:26,667 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:26,667 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:39:27,168 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :41-A0-00-00-00-00-A0-5A
+2018-11-27 13:39:27,168 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:27,168 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:No40960
+2018-11-27 13:39:27,668 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:27,668 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:VibCancel
+2018-11-27 13:39:28,168 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:28,168 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Down Cover Closed
+2018-11-27 13:39:28,669 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:28,669 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Up Cover Closed
+2018-11-27 13:39:29,170 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:29,170 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:Lock
+2018-11-27 13:39:29,671 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:29,671 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:SUL Alarm
+2018-11-27 13:39:30,172 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:30,172 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CH Alarm
+2018-11-27 13:39:30,672 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - TCP never connects
+2018-11-27 13:39:30,672 ERROR [com.pioteks.usr.ClinetCallbackAdapter] - message:CO Alarm
+2018-11-27 13:45:39,256 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-00-00-00-B1-6F
+2018-11-27 13:45:39,256 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"FF","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","humidity":"FF","vibrate":"","sn":"1007","batterylevel":"FF","r_type":"2"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}
+2018-11-27 13:45:51,968 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-05-00-EF-A5-6F
+2018-11-27 13:45:51,984 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-06-00-00-B7-6F
+2018-11-27 13:45:53,142 INFO [com.pioteks.usr.ClinetCallbackAdapter] - CoAP receive from NB :45-B0-01-07-27-1E-FD-6F
+2018-11-27 13:45:53,142 INFO [com.pioteks.usr.ClinetCallbackAdapter] - GX message:{"notifyType":"deviceDataChanged","service":{"data":{"dt":"bluetooth manhole","temp":"30","hardwareid":"45057","mact":"0","inlight":"0","ics":"0","vibrate":"","humidity":"39","sn":"2006","batterylevel":"14","r_type":"0"},"serviceId":"serviceId"},"deviceId":"deviceId","gatewayId":"huaweigateway"}

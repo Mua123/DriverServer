@@ -13,6 +13,7 @@ import org.apache.mina.transport.socket.nio.NioSocketAcceptor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.pioteks.handler.WebServerGXHandler;
 import com.pioteks.handler.WebServerHandler;
 
 public class WebServer {
@@ -36,5 +37,24 @@ public class WebServer {
 
         System.out.println("WebServer start in " + port + " ..");
         logger.info("WebServer start in " + port + " ..");
+	}
+	
+	public static void startWebServerGX(int port) throws IOException {
+		// ** Acceptor设置
+		IoAcceptor acceptor = new NioSocketAcceptor();
+        // 此行代码能让你的程序整体性能提升10倍
+        DefaultIoFilterChainBuilder chain = acceptor.getFilterChain();
+        chain.addLast("threadPool",new ExecutorFilter(Executors.newCachedThreadPool()));
+        chain.addLast("logger", new LoggingFilter());
+        // 设置MINA2的IoHandler实现类
+        acceptor.setHandler(new WebServerGXHandler());
+
+        acceptor.getSessionConfig().setReadBufferSize(2048);
+
+        // ** TCP服务端开始侦听
+        acceptor.bind(new InetSocketAddress(port));
+
+        System.out.println("WebServer_gx start in " + port + " ..");
+        logger.info("WebServer_gx start in " + port + " ..");
 	}
 }

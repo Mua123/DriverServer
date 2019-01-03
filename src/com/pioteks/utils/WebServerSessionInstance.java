@@ -12,6 +12,7 @@ public class WebServerSessionInstance {
 	private static WebServerSessionInstance webServerSessionInstance;
 	
 	private IoSession webServerSession;
+	private IoSession webServerGXSession;
 	
 	private WebServerSessionInstance() {
 		
@@ -31,7 +32,14 @@ public class WebServerSessionInstance {
 	public void setWebServerSession(IoSession webServerSession) {
 		this.webServerSession = webServerSession;
 	}
-	
+
+	public IoSession getWebServerGXSession() {
+		return webServerGXSession;
+	}
+
+	public void setWebServerGXSession(IoSession webServerGXSession) {
+		this.webServerGXSession = webServerGXSession;
+	}
 	
 
 }
