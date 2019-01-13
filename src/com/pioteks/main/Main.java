@@ -9,6 +9,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.Properties;
 import java.util.Timer;
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.LinkedBlockingQueue;
 
 import org.apache.log4j.PropertyConfigurator;
 import org.eclipse.paho.client.mqttv3.MqttException;
@@ -20,6 +22,8 @@ import com.pioteks.server.NBServer;
 import com.pioteks.server.WebServer;
 import com.pioteks.timer.ReconnectTimerTask;
 import com.pioteks.usr.ClientAdapter;
+import com.pioteks.usr.ClientGXConsumer;
+import com.pioteks.usr.ClientJSConsumer;
 import com.pioteks.usr.ClinetCallbackAdapter;
 import com.pioteks.utils.CommandInstance;
 
@@ -66,12 +70,12 @@ public class Main {
 			NBServer.startNBServer(NBPort);
 		}
 
-		//启动web_TCP服务
-		if(WebPort == -1) {
-			WebServer.startWebServer(12346);
-		}else {
-			WebServer.startWebServer(WebPort);
-		}
+//		//启动web_TCP服务
+//		if(WebPort == -1) {
+//			WebServer.startWebServer(12346);
+//		}else {
+//			WebServer.startWebServer(WebPort);
+//		}
 		
 //		if(WebPort == -1) {
 //			WebServer.startWebServerGX(12347);
@@ -115,12 +119,32 @@ public class Main {
 		command.setCommandListMode2(commandListMode2);
 		command.setMode(CommandInstance.ALARM);
 		
-		run();
+		BlockingQueue<byte[]> jsQueue = new LinkedBlockingQueue<>();
+		BlockingQueue<byte[]> gxQueue = new LinkedBlockingQueue<>();
+		
+		runSend(jsQueue, gxQueue);
+		runAccept(jsQueue, gxQueue);
 	}
 	
-	public static void run() {
+	/**
+	 * 运行发送模块
+	 * @param jsQueue
+	 * @param gxQueue
+	 */
+	private static void runSend(BlockingQueue<byte[]> jsQueue, BlockingQueue<byte[]> gxQueue) {
+		System.out.println("sender");
+		new Thread(new ClientJSConsumer(jsQueue)).start();
+		new Thread(new ClientGXConsumer(gxQueue)).start();
+	}
+
+	/**
+	 * 运行有人云平台接收模块
+	 * @param queue 消息队列 
+	 * @param gxQueue 
+	 */
+	public static void runAccept(BlockingQueue<byte[]> jsQueue, BlockingQueue<byte[]> gxQueue) {
 		clientAdapter = new ClientAdapter(clinetCallbackAdapter);
-		clinetCallbackAdapter = new ClinetCallbackAdapter(clientAdapter);
+		clinetCallbackAdapter = new ClinetCallbackAdapter(clientAdapter, jsQueue, gxQueue);
 		logger.info(new Date()+"UsrThread start");
 		System.out.println(new Date()+"UsrThread");
 		try {
